@@ -1,0 +1,18 @@
+#blue-large {
+    color: blue;
+    font-size: 36px;
+}
+
+#green {
+    background: lightgreen;
+    font-weight: bold;
+}
+
+.odd {
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+    background: lightpink;
+}
+
+.large-paragraph {
+    font-size: 24px;
+}
