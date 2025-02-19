@@ -2,6 +2,7 @@
   font-family: monospace;
   background: papayawhip;
   display: flex;
+  padding: 12px;
   align-items: center;
   justify-content: space-between;
 }
@@ -18,13 +19,9 @@ ul {
   /* this removes the dots on the list items*/
   list-style-type: none;
   display: flex;
-  justify-content: space-between;
-  padding: 0px;
-}
-
-/* TODO: Not totally sure I need to add this. UL items (LI) should shrink. */
-li {
-  padding: 12px;
+  padding: 8px;
+  margin: 0;
+  gap: 8px;
 }
 
 a {
